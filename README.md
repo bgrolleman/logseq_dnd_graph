@@ -13,6 +13,15 @@ Tools on Tech
 https://youtube.com/c/toolsontech
 https://twitter.com/toolsontech
 
+## Features
+
+Templates and Query pages for, Items, Regions, Towns, Locations, NPC, Player
+Character, Players, Sessions and Days
+
+## Usage
+
+Please check the Contents page and the DND/Workflow page
+
 
 
 
