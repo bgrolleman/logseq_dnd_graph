@@ -1,0 +1,2 @@
+- Any open tasks in your quest log, because it's based around a dedicated graph no need to filter
+- {{query (todo TODO DOING NOW LATER)}}
